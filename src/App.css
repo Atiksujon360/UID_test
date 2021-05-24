@@ -1,0 +1,179 @@
+.App {
+  text-align: center;
+}
+.floatLeft {
+  float: left;
+}
+.twoRow {
+  margin-top: 25px;
+  width: 300;
+  height: 40px;
+}
+.logo {
+  margin-top: -15px;
+  width: 200px;
+  height: 80px;
+}
+.signUp {
+  margin-top: 25px;
+  width: 100%;
+  height: 100px;
+}
+.slider {
+  max-width: 400px;
+  min-width: auto;
+  max-height: 450px;
+  min-width: 350px;
+}
+.card {
+  max-width: 400px;
+  min-width: auto;
+  max-height: 450px;
+  min-height: 450px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.Padding {
+  padding: 20px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+@media only screen and (max-width: 800px) {
+  .twoRow {
+    margin-top: 25px;
+    width: 200px;
+    height: 40px;
+  }
+  .logo {
+    margin-top: -15px;
+    width: 180px;
+    height: 75px;
+  }
+  .signUp {
+    margin-top: 25px;
+    width: 80%;
+    height: 80px;
+  }
+}
+@media only screen and (max-width: 610px) {
+  .twoRow {
+    margin-top: 25px;
+    width: 180px;
+    height: 40px;
+  }
+  .logo {
+    margin-top: -15px;
+    width: 130px;
+    height: 75px;
+  }
+  .signUp {
+    margin-top: 25px;
+    width: 100%;
+    height: 80px;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .twoRow {
+    margin-top: 25px;
+    width: 150px;
+    height: 35px;
+  }
+  .logo {
+    margin-top: -15px;
+    width: 100px;
+    height: 75px;
+  }
+  .signUp {
+    margin-top: 25px;
+    width: 100%;
+    height: 70px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .card {
+    max-width: 400px;
+    min-width: auto;
+    max-height: 450px;
+    min-height: 450px;
+    margin-bottom: 20px;
+    /* padding: 20px; */
+  }
+  
+  .twoRow {
+    margin-top: 25px;
+    width: 100px;
+    height: 30px;
+  }
+  .logo {
+    margin-top: -15px;
+    width: 140px;
+    height: 75px;
+  }
+  .signUp {
+    margin-top: 25px;
+    width: 100%;
+    height: 60px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .twoRow {
+    margin-top: -10px;
+    width: 100%;
+    height: 30px;
+  }
+  
+  .logo {
+    margin-top: -15px;
+    width: 140px;
+    height: 90px;
+  }
+  .signUp {
+    margin-top: -10px;
+    width: 100%;
+    height: 75px;
+  }
+  .slider {
+    max-width: 250px;
+    max-height: 550px;
+    min-width: 250px;
+  }
+  .card {
+    max-width: 250px;
+    min-width: auto;
+    max-height: 450px;
+    min-height: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.rowContent {
+  color: white;
+  width: 300px;
+  float: left;
+}
+
+/* Container for flexboxes */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 25%;
+  padding: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+  }
+}
