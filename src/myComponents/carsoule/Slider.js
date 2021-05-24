@@ -33,6 +33,14 @@ class Slider extends Component {
             />
           </div>
         </Carousel>
+        <div className="row">
+          <div className="column rowContent">
+            <img
+              className="threeRow "
+              src="https://gamesshowcase.uid-testing.space/img/waves-three.png"
+            />
+          </div>
+          </div>
       </div>
     );
   }

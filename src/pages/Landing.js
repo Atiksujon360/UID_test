@@ -20,7 +20,7 @@ const TabContainer = styled.div`
   }
   .ant-card-body {
     background-color: #f1f1f1;
-    ${'' /* min-height: 550px; */}
+    ${"" /* min-height: 550px; */}
     padding-left: 38px;
     padding-right: 38px;
     border-radius: 2px;

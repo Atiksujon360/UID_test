@@ -31,13 +31,11 @@ export default class Home extends Component {
         <div className="row">
           <div className="column rowContent">
             <Slider />
-            <img style={{width:'auto',padding:20,float:'left'}}
-              src="https://gamesshowcase.uid-testing.space/img/waves-three.png"
-            />
           </div>
           <div className="column rowContent">
             <Landing />
           </div>
+          <div className="column rowContent"></div>
         </div>
       </div>
     );

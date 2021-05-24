@@ -18,11 +18,11 @@ const data = [
       <div>
         <a
           href="https://berg.uid-testing.space/gamelist/maxiscny/"
-          style={{ color: "white" }}
+          style={{ color: "#fff"}}
         >
           Maxis | Catch that Health
         </a>
-        <p style={{ color: "gray" }}>Web Game - Collect 'Em Al</p>
+        <p style={{ color: "#ececec" }}>Web Game - Collect 'Em Al</p>
       </div>
     ),
     description: (
@@ -37,11 +37,11 @@ const data = [
       <div>
         <a
           href="https://berg.uid-testing.space/gamelist/pepperlunch/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           PepperLunch | Spot 15 Differences
         </a>
-        <p style={{ color: "gray" }}>Web Game - Spot the Difference</p>
+        <p style={{ color: "#ececec" }}>Web Game - Spot the Difference</p>
       </div>
     ),
     description: (
@@ -56,11 +56,11 @@ const data = [
       <div>
         <a
           href="https://berg.uid-testing.space/gamelist/tsubaki/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Tsubaki | Forget Me Knot
         </a>
-        <p style={{ color: "gray" }}>Web Game - Flip & Match</p>
+        <p style={{ color: "#ececec" }}>Web Game - Flip & Match</p>
       </div>
     ),
     description: (
@@ -75,11 +75,11 @@ const data = [
       <div>
         <a
           href="https://berg.uid-testing.space/gamelist/dprogram/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           d program by Shiseido Group | Gentle Cleansing Solution
         </a>
-        <p style={{ color: "gray" }}>Web Game - Tap & Drag</p>
+        <p style={{ color: "#ececec" }}>Web Game - Tap & Drag</p>
       </div>
     ),
     description: (
@@ -94,11 +94,11 @@ const data = [
       <div>
         <a
           href="https://berg.uid-testing.space/gamelist/bleedstopper/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Johnson & Johnson | Bleed Stopper
         </a>
-        <p style={{ color: "gray" }}>Web Game - Shooter</p>
+        <p style={{ color: "#ececec" }}>Web Game - Shooter</p>
       </div>
     ),
     description: (
@@ -113,11 +113,11 @@ const data = [
       <div>
         <a
           href="https://berg.uid-testing.space/gamelist/setiacitymall/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Setia City Mall | Catch The Lucky Orange Game
         </a>
-        <p style={{ color: "gray" }}>Web Game - Collect 'Em Al</p>
+        <p style={{ color: "#ececec" }}>Web Game - Collect 'Em Al</p>
       </div>
     ),
     description: (
@@ -132,11 +132,11 @@ const data = [
       <div>
         <a
           href="https://www.instagram.com/ar/3580349065524618/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Ho Yan Hor | Huat Moo-ment
         </a>
-        <p style={{ color: "gray" }}>SparkAR - Collect 'Em All</p>
+        <p style={{ color: "#ececec" }}>SparkAR - Collect 'Em All</p>
       </div>
     ),
     description: (
@@ -151,11 +151,11 @@ const data = [
       <div>
         <a
           href="https://www.instagram.com/ar/221196302982453/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Red Eagle | 镇家之宝 米其林3星
         </a>
-        <p style={{ color: "gray" }}>SparkAR - Filter</p>
+        <p style={{ color: "#ececec" }}>SparkAR - Filter</p>
       </div>
     ),
     description: (
@@ -170,11 +170,11 @@ const data = [
       <div>
         <a
           href="https://www.instagram.com/ar/1869548256526851/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Red Eagle | 镇家之宝 厨神
         </a>
-        <p style={{ color: "gray" }}>SparkAR - Immersive</p>
+        <p style={{ color: "#ececec" }}>SparkAR - Immersive</p>
       </div>
     ),
     description: (
@@ -189,11 +189,11 @@ const data = [
       <div>
         <a
           href="https://jvf.zappar.io/2092925128499313711/2.0.0/index.html"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           UID | Jump Jump! Space Ranger
         </a>
-        <p style={{ color: "gray" }}>WebAR - Jump Shot</p>
+        <p style={{ color: "#ececec" }}>WebAR - Jump Shot</p>
       </div>
     ),
     description: (
@@ -208,11 +208,11 @@ const data = [
       <div>
         <a
           href="https://jvf.zappar.io/3386367925969838988/2.0.0/index.html"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           UID | AR Spot the Difference
         </a>
-        <p style={{ color: "gray" }}>WebAR - Spot the Difference</p>
+        <p style={{ color: "#ececec" }}>WebAR - Spot the Difference</p>
       </div>
     ),
     description: (
@@ -225,10 +225,10 @@ const data = [
   {
     title: (
       <div>
-        <a href="https://playcanv.as/b/Mldq5TQ0/" style={{ color: "white" }}>
+        <a href="https://playcanv.as/b/Mldq5TQ0/" style={{ color: "#fff" }}>
           UID | Epic Dunk Fun
         </a>
-        <p style={{ color: "gray" }}>WebAR - Aim & Shoot</p>
+        <p style={{ color: "#ececec" }}>WebAR - Aim & Shoot</p>
       </div>
     ),
     description: (
@@ -243,11 +243,11 @@ const data = [
       <div>
         <a
           href="https://jvf.zappar.io/2518416787964324795/3.0.1/index.html"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           UID | Game On Survey
         </a>
-        <p style={{ color: "gray" }}>WebAR - Survey</p>
+        <p style={{ color: "#ececec" }}>WebAR - Survey</p>
       </div>
     ),
     description: (
@@ -262,11 +262,11 @@ const data = [
       <div>
         <a
           href="https://jvf.zappar.io/5513409516596199215/1.0.8/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Nestlé Professional | God of Prosperity
         </a>
-        <p style={{ color: "gray" }}>WebAR - Surface Tracking</p>
+        <p style={{ color: "#ececec" }}>WebAR - Surface Tracking</p>
       </div>
     ),
     description: (
@@ -281,11 +281,11 @@ const data = [
       <div>
         <a
           href="https://skin-analysis-2021.uid-testing.space"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Face Analysis
         </a>
-        <p style={{ color: "gray" }}>Face Analysis</p>
+        <p style={{ color: "#ececec" }}>Face Analysis</p>
       </div>
     ),
     description: (
@@ -300,11 +300,11 @@ const data = [
       <div>
         <a
           href="https://www.facebook.com/fbcameraeffects/tryit/954019472071651/"
-          style={{ color: "white" }}
+          style={{ color: "#fff" }}
         >
           Nestlé Professional | RIUH RAYA BY NESTLÉ
         </a>
-        <p style={{ color: "gray" }}>SparkAR - Filte</p>
+        <p style={{ color: "#ececec" }}>SparkAR - Filte</p>
       </div>
     ),
     description: (
@@ -328,11 +328,11 @@ class Games extends Component {
               <div>
                 <img
                   alt="logo"
-                  className="logo"
+                  className="GameLogo"
                   src="https://gamesshowcase.uid-testing.space/img/logo.png"
                 />
               </div>
-              <h1 style={{ color: "white" }}>Game showcase</h1>
+              <h1 className="GameShowcase">Game showcase</h1>
             </Col>
             <Col span={8}></Col>
           </Row>
